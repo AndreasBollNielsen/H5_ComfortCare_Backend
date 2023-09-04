@@ -98,19 +98,19 @@ namespace ComfortCare.Api.Controllers
             }
         }
 
-        [HttpPost("GetKey")]
-        public IActionResult GetPublicKey(LoginDto loginDto)
+        [HttpGet("GetKey")]
+        public IActionResult GetPublicKey()
         {
 
             //generate RSA keys
             RSAParameters publickey = GenerateRSAKeyPair();
 
-
+            //convert to PEM string
             var pemkey = ExportPublicKeyToPEM(publickey);
 
 
+            
             //send public key to user
-            string output = "ok";
             try
             {
                 return StatusCode(200, pemkey);
@@ -150,6 +150,7 @@ namespace ComfortCare.Api.Controllers
 
                         using (Aes aesalgorithm = Aes.Create())
                         {
+                            
                             aesalgorithm.Key = decryptedKey;
                             aesalgorithm.IV = decryptedIv;
                             keyholder.key = Convert.ToBase64String(aesalgorithm.Key);
