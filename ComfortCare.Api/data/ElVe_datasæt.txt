@@ -1,0 +1,109 @@
+{
+    "name": "Elisabeth Vestergaard",
+    "assignments": [
+        {
+            "titel": "Opvækning",
+            "description": "Tag op af sengen",
+            "startDate": "2023-08-27T06:00:00",
+            "citizenName": "Steen Ulriksen",
+            "address": "Nørregade 27A, , 4100 Ringsted",
+            "endDate": "2023-08-27T07:15:00"
+        },
+        {
+            "titel": "Hjælp til Personlig Hygiejne",
+            "description": "Assistér med personlig hygiejne og bad",
+            "startDate": "2023-08-27T07:15:03.1",
+            "citizenName": "Ruth Trier",
+            "address": "Ørslev Stationsvej 76, Ørslev, 4100 Ringsted",
+            "endDate": "2023-08-27T07:50:03.1"
+        },
+        {
+            "titel": "Hjælp til Personlig Hygiejne",
+            "description": "Assistér med personlig hygiejne og bad",
+            "startDate": "2023-08-27T07:50:06.9",
+            "citizenName": "Dorthe Jacobsen",
+            "address": "Nørretorv 6, , 4100 Ringsted",
+            "endDate": "2023-08-27T08:25:06.9"
+        },
+        {
+            "titel": "Hjælp til Personlig Hygiejne",
+            "description": "Assistér med personlig hygiejne og bad",
+            "startDate": "2023-08-27T08:25:42.7",
+            "citizenName": "Lene Poulsen",
+            "address": "Valsømaglevej 64, Valsømagle, 4100 Ringsted",
+            "endDate": "2023-08-27T09:00:42.7"
+        },
+        {
+            "titel": "Spise- og Måltidshjælp",
+            "description": "Assistér med spisning og måltider",
+            "startDate": "2023-08-27T09:04:06.8",
+            "citizenName": "Mogens Quist",
+            "address": "Gyrstingevej 11, Ørslev U.Skoven, 4100 Ringsted",
+            "endDate": "2023-08-27T09:49:06.8"
+        },
+        {
+            "titel": "Hjælp med Tøjvask",
+            "description": "Hjælp til vask og foldning af tøj",
+            "startDate": "2023-08-29T11:00:00",
+            "citizenName": "Gurli Rix",
+            "address": "Mortenstrupvej 67, Atterup, 4174 Jystrup Midtsj",
+            "endDate": "2023-08-29T11:25:00"
+        },
+        {
+            "titel": "Indkøb af Dagligvarer",
+            "description": "Indkøb af nødvendige dagligvarer",
+            "startDate": "2023-08-29T11:25:01.3",
+            "citizenName": "Villy Kjær",
+            "address": "Schandorphsvej 25, , 4100 Ringsted",
+            "endDate": "2023-08-29T12:10:01.3"
+        },
+        {
+            "titel": "Indkøb af Dagligvarer",
+            "description": "Indkøb af nødvendige dagligvarer",
+            "startDate": "2023-08-29T12:10:04.2",
+            "citizenName": "Viggo Drost",
+            "address": "Lavetten 13B, , 4100 Ringsted",
+            "endDate": "2023-08-29T12:55:04.2"
+        },
+        {
+            "titel": "Aktivitetsfølgeskab",
+            "description": "Følgeskab til sociale aktiviteter",
+            "startDate": "2023-08-29T12:55:35.8",
+            "citizenName": "Egon Hermansen",
+            "address": "Jernbanevej 22, , 4100 Ringsted",
+            "endDate": "2023-08-29T13:40:35.8"
+        },
+        {
+            "titel": "Indkøb af Dagligvarer",
+            "description": "Indkøb af nødvendige dagligvarer",
+            "startDate": "2023-09-01T11:00:00",
+            "citizenName": "Agnes Thomsen",
+            "address": "Højbogårdsvej 44, , 4100 Ringsted",
+            "endDate": "2023-09-01T11:45:00"
+        },
+        {
+            "titel": "Hjælp med Tøjvask",
+            "description": "Hjælp til vask og foldning af tøj",
+            "startDate": "2023-09-01T11:48:55.6",
+            "citizenName": "Nina Ulrichsen",
+            "address": "Prinsensvej 12, , 4100 Ringsted",
+            "endDate": "2023-09-01T12:13:55.6"
+        },
+        {
+            "titel": "Transport til Aftaler",
+            "description": "Kørsel til lægeaftaler og andre aftaler",
+            "startDate": "2023-09-01T12:13:59.8",
+            "citizenName": "Ivan Rasmussen",
+            "address": "Nørregade 130, , 4100 Ringsted",
+            "endDate": "2023-09-01T12:33:59.8"
+        },
+        {
+            "titel": "Indkøb af Dagligvarer",
+            "description": "Indkøb af nødvendige dagligvarer",
+            "startDate": "2023-09-01T12:34:03.3",
+            "citizenName": "Lise Hvidtfeldt",
+            "address": "Ørnevej 2, , 4100 Ringsted",
+            "endDate": "2023-09-01T13:19:03.3"
+        }
+    ]
+}

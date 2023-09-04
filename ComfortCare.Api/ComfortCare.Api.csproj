@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Bogus" Version="34.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
@@ -16,6 +17,15 @@
     <ProjectReference Include="..\ComfortCare.Data\ComfortCare.Data.csproj" />
     <ProjectReference Include="..\ComfortCare.Domain\ComfortCare.Domain.csproj" />
     <ProjectReference Include="..\ComfortCare.Service\ComfortCare.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="data\ElVe_datasæt.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="data\RoMo_datasæt.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

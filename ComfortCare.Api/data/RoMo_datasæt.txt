@@ -1,0 +1,285 @@
+{
+  "name": "Ronny Mortensen",
+  "assignments": [
+    {
+      "titel": "Opvækning",
+      "description": "Tag op af sengen",
+      "startDate": "2023-09-01T06:00:00",
+      "citizenName": "Solveig Odgaard",
+      "address": "Benløseparken 197, Benløse, 4100 Ringsted",
+      "endDate": "2023-09-01T07:15:00"
+    },
+    {
+      "titel": "Opvækning",
+      "description": "Tag op af sengen",
+      "startDate": "2023-09-01T07:15:36.4",
+      "citizenName": "Karl Toft",
+      "address": "Bøllingsvej 15D, , 4100 Ringsted",
+      "endDate": "2023-09-01T08:30:36.4"
+    },
+    {
+      "titel": "Opvækning",
+      "description": "Tag op af sengen",
+      "startDate": "2023-09-01T08:30:48.7",
+      "citizenName": "Margit Odgaard",
+      "address": "Hækkerupsvej 7, , 4100 Ringsted",
+      "endDate": "2023-09-01T09:45:48.7"
+    },
+    {
+      "titel": "Spise- og Måltidshjælp",
+      "description": "Assistér med spisning og måltider",
+      "startDate": "2023-09-01T09:45:53.1",
+      "citizenName": "Grete Ingemann",
+      "address": "Risvangen 20, Benløse, 4100 Ringsted",
+      "endDate": "2023-09-01T10:30:53.1"
+    },
+    {
+      "titel": "Spise- og Måltidshjælp",
+      "description": "Assistér med spisning og måltider",
+      "startDate": "2023-09-01T10:31:59.8",
+      "citizenName": "Steen Lyngsø",
+      "address": "Kildevældet 7, , 4100 Ringsted",
+      "endDate": "2023-09-01T11:16:59.8"
+    },
+    {
+      "titel": "Ledsagelse til Aktiviteter",
+      "description": "Ledsagelse til fritidsaktiviteter og arrangementer",
+      "startDate": "2023-09-01T11:17:03.3",
+      "citizenName": "Grete Isaksen",
+      "address": "Benløseparken 147, Benløse, 4100 Ringsted",
+      "endDate": "2023-09-01T11:22:03.3"
+    },
+    {
+      "titel": "Transport til Aftaler",
+      "description": "Kørsel til lægeaftaler og andre aftaler",
+      "startDate": "2023-09-01T11:22:05.4",
+      "citizenName": "Verner Mogensen",
+      "address": "Artilleristen 16, , 4100 Ringsted",
+      "endDate": "2023-09-01T11:42:05.4"
+    },
+    {
+      "titel": "Indkøb af Dagligvarer",
+      "description": "Indkøb af nødvendige dagligvarer",
+      "startDate": "2023-09-01T11:42:08.7",
+      "citizenName": "Marie Sonne",
+      "address": "Ørslev Gade 64E, Ørslev, 4100 Ringsted",
+      "endDate": "2023-09-01T12:27:08.7"
+    },
+    {
+      "titel": "Indkøb af Dagligvarer",
+      "description": "Indkøb af nødvendige dagligvarer",
+      "startDate": "2023-09-01T12:27:13.6",
+      "citizenName": "Valdemar Jokumsen",
+      "address": "Sct Hansgade 33, , 4100 Ringsted",
+      "endDate": "2023-09-01T13:12:13.6"
+    },
+    {
+      "titel": "Selskab og Samvær",
+      "description": "Tilbringe tid med borgeren i hyggeligt samvær",
+      "startDate": "2023-09-01T13:12:41.6",
+      "citizenName": "Pernille Aakjær",
+      "address": "Sletten 18, Benløse, 4100 Ringsted",
+      "endDate": "2023-09-01T13:57:41.6"
+    },
+    {
+      "titel": "Selskab og Samvær",
+      "description": "Tilbringe tid med borgeren i hyggeligt samvær",
+      "startDate": "2023-09-01T13:57:50",
+      "citizenName": "Lise Hvidtfeldt",
+      "address": "Ørnevej 2, , 4100 Ringsted",
+      "endDate": "2023-09-01T14:42:50"
+    },
+    {
+      "titel": "Selskab og Samvær",
+      "description": "Tilbringe tid med borgeren i hyggeligt samvær",
+      "startDate": "2023-09-01T14:43:32.5",
+      "citizenName": "Karl Dahl",
+      "address": "Thorskilden 22, Benløse, 4100 Ringsted",
+      "endDate": "2023-09-01T15:28:32.5"
+    },
+    {
+      "titel": "Selskab og Samvær",
+      "description": "Tilbringe tid med borgeren i hyggeligt samvær",
+      "startDate": "2023-09-01T15:28:52.2",
+      "citizenName": "Henry Kjær",
+      "address": "Bataljonen 45, , 4100 Ringsted",
+      "endDate": "2023-09-01T16:13:52.2"
+    },
+    {
+      "titel": "Selskab og Samvær",
+      "description": "Tilbringe tid med borgeren i hyggeligt samvær",
+      "startDate": "2023-09-01T16:14:20.9",
+      "citizenName": "Inga Uldall",
+      "address": "Mjølnersvej 9, , 4100 Ringsted",
+      "endDate": "2023-09-01T16:59:20.9"
+    },
+    {
+      "titel": "Selskab og Samvær",
+      "description": "Tilbringe tid med borgeren i hyggeligt samvær",
+      "startDate": "2023-09-01T16:59:23.1",
+      "citizenName": "Solveig Nørup",
+      "address": "Nordbæksvej 66, Kværkeby, 4100 Ringsted",
+      "endDate": "2023-09-01T17:44:23.1"
+    },
+    {
+      "titel": "Opvækning",
+      "description": "Tag op af sengen",
+      "startDate": "2023-09-02T06:00:00",
+      "citizenName": "Frede Falk",
+      "address": "Dalmosevej 3, , 4100 Ringsted",
+      "endDate": "2023-09-02T07:15:00"
+    },
+    {
+      "titel": "Hjælp til Personlig Hygiejne",
+      "description": "Assistér med personlig hygiejne og bad",
+      "startDate": "2023-09-02T07:15:10.5",
+      "citizenName": "Lars Berg",
+      "address": "Ålbæk Huse 53, , 4174 Jystrup Midtsj",
+      "endDate": "2023-09-02T07:50:10.5"
+    },
+    {
+      "titel": "Opvækning",
+      "description": "Tag op af sengen",
+      "startDate": "2023-09-02T07:57:40.4",
+      "citizenName": "Mette Bundgaard",
+      "address": "Kværkeby Stationsvej 8, Fjællebro, 4100 Ringsted",
+      "endDate": "2023-09-02T09:12:40.4"
+    },
+    {
+      "titel": "Spise- og Måltidshjælp",
+      "description": "Assistér med spisning og måltider",
+      "startDate": "2023-09-02T09:16:12.1",
+      "citizenName": "Lars Lynge",
+      "address": "Kristoffersvej 82, , 4100 Ringsted",
+      "endDate": "2023-09-02T10:01:12.1"
+    },
+    {
+      "titel": "Spise- og Måltidshjælp",
+      "description": "Assistér med spisning og måltider",
+      "startDate": "2023-09-02T10:01:15.6",
+      "citizenName": "John Christensen",
+      "address": "Hovmarksbakken 7, Jystrup, 4174 Jystrup Midtsj",
+      "endDate": "2023-09-02T10:46:15.6"
+    },
+    {
+      "titel": "Spise- og Måltidshjælp",
+      "description": "Assistér med spisning og måltider",
+      "startDate": "2023-09-02T10:46:53",
+      "citizenName": "Knud Hansen",
+      "address": "Langebjergvej 67, Haraldsted, 4100 Ringsted",
+      "endDate": "2023-09-02T11:31:53"
+    },
+    {
+      "titel": "Indkøb af Dagligvarer",
+      "description": "Indkøb af nødvendige dagligvarer",
+      "startDate": "2023-09-02T11:31:53.1",
+      "citizenName": "Knud Würtz",
+      "address": "Sct Knudsgade 9A, , 4100 Ringsted",
+      "endDate": "2023-09-02T12:16:53.1"
+    },
+    {
+      "titel": "Ledsagelse til Aktiviteter",
+      "description": "Ledsagelse til fritidsaktiviteter og arrangementer",
+      "startDate": "2023-09-02T12:16:53.2",
+      "citizenName": "Erna Vestergaard",
+      "address": "Præstbrovej 5, Farendløse, 4100 Ringsted",
+      "endDate": "2023-09-02T12:21:53.2"
+    },
+    {
+      "titel": "Ledsagelse til Aktiviteter",
+      "description": "Ledsagelse til fritidsaktiviteter og arrangementer",
+      "startDate": "2023-09-02T12:21:53.3",
+      "citizenName": "Sigrid Møller",
+      "address": "Hf Banestien 26, , 4100 Ringsted",
+      "endDate": "2023-09-02T12:26:53.3"
+    },
+    {
+      "titel": "Aktivitetsfølgeskab",
+      "description": "Følgeskab til sociale aktiviteter",
+      "startDate": "2023-09-02T12:26:54.9",
+      "citizenName": "Margrethe Vad",
+      "address": "Bataljonen 155B, , 4100 Ringsted",
+      "endDate": "2023-09-02T13:11:54.9"
+    },
+    {
+      "titel": "Hjælp til Personlig Hygiejne",
+      "description": "Assistér med personlig hygiejne og bad",
+      "startDate": "2023-09-03T06:00:00",
+      "citizenName": "Lilly Jeppesen",
+      "address": "Kompagniet 70, , 4100 Ringsted",
+      "endDate": "2023-09-03T06:35:00"
+    },
+    {
+      "titel": "Hjælp til Personlig Hygiejne",
+      "description": "Assistér med personlig hygiejne og bad",
+      "startDate": "2023-09-03T06:35:17",
+      "citizenName": "Michael Iversen",
+      "address": "Tofteåsvej 10D, Benløse, 4100 Ringsted",
+      "endDate": "2023-09-03T07:10:17"
+    },
+    {
+      "titel": "Opvækning",
+      "description": "Tag op af sengen",
+      "startDate": "2023-09-03T07:10:18.1",
+      "citizenName": "Bente Hvidtfeldt",
+      "address": "Sandagervej 8, Benløse, 4100 Ringsted",
+      "endDate": "2023-09-03T08:25:18.1"
+    },
+    {
+      "titel": "Opvækning",
+      "description": "Tag op af sengen",
+      "startDate": "2023-09-03T08:25:24.3",
+      "citizenName": "Maria Bruun",
+      "address": "Benløseparken 137, Benløse, 4100 Ringsted",
+      "endDate": "2023-09-03T09:40:24.3"
+    },
+    {
+      "titel": "Spise- og Måltidshjælp",
+      "description": "Assistér med spisning og måltider",
+      "startDate": "2023-09-03T09:40:54.9",
+      "citizenName": "Verner Graversen",
+      "address": "Dampmølleparken 14, , 4100 Ringsted",
+      "endDate": "2023-09-03T10:25:54.9"
+    },
+    {
+      "titel": "Spise- og Måltidshjælp",
+      "description": "Assistér med spisning og måltider",
+      "startDate": "2023-09-03T10:26:11.1",
+      "citizenName": "Berit Skaarup",
+      "address": "Tofteåsvej 28, Benløse, 4100 Ringsted",
+      "endDate": "2023-09-03T11:11:11.1"
+    },
+    {
+      "titel": "Indkøb af Dagligvarer",
+      "description": "Indkøb af nødvendige dagligvarer",
+      "startDate": "2023-09-03T11:11:26",
+      "citizenName": "Ole Mortensen",
+      "address": "Kværkebyvej 46, Fjællebro, 4100 Ringsted",
+      "endDate": "2023-09-03T11:56:26"
+    },
+    {
+      "titel": "Ledsagelse til Aktiviteter",
+      "description": "Ledsagelse til fritidsaktiviteter og arrangementer",
+      "startDate": "2023-09-03T11:56:49.6",
+      "citizenName": "Laila Nielsen",
+      "address": "Sandagervej 8, Benløse, 4100 Ringsted",
+      "endDate": "2023-09-03T12:01:49.6"
+    },
+    {
+      "titel": "Ledsagelse til Aktiviteter",
+      "description": "Ledsagelse til fritidsaktiviteter og arrangementer",
+      "startDate": "2023-09-03T12:02:03.5",
+      "citizenName": "Kirsten Jensen",
+      "address": "Ørslev Gade 74, Ørslev, 4100 Ringsted",
+      "endDate": "2023-09-03T12:07:03.5"
+    },
+    {
+      "titel": "Aktivitetsfølgeskab",
+      "description": "Følgeskab til sociale aktiviteter",
+      "startDate": "2023-09-03T12:07:14.8",
+      "citizenName": "Eva Vestergaard",
+      "address": "Bøllingsvej 47, , 4100 Ringsted",
+      "endDate": "2023-09-03T12:52:14.8"
+    }
+  ]
+}
